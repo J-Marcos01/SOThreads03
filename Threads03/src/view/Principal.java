@@ -25,7 +25,7 @@ public class Principal
 	
 	for(int i=0;i<1000;i++)
 		{
-			vet[i]=(int)((Math.random()*1000)+1);
+			vet[i]=(int)((Math.random()*100)+1);
 		}
 		
 		
